@@ -1,7 +1,7 @@
 #calculates perceptro for a binomial distribution
 #n is equals the number of samples to perform the 
 #algorithm over
-perceptron <- function(n=10) {
+perceptron <- function(n = 10) {
 	
 	y <- vector("numeric")
 	h_of_x <- vector("numeric")
