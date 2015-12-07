@@ -51,7 +51,7 @@ perceptron <- function(n = 10) {
 
 ##
 ## yields the cross product between the model function
-## and a vector given
+## and a given vector
 ##
 regression_line <- function(x = NA, vector1, vector2) {
 	#define two randomly points
